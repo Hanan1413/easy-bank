@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution on Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [Solution on Frontend Mentor](https://www.frontendmentor.io/solutions/css-grid-css-flexbox-DqQwcjvWg5)
+- Live Site URL: [Live Site](https://hanan1413.github.io/easy-bank/)
 
 ## My Process
 
@@ -46,10 +46,4 @@ Users should be able to:
 
 ### What I Learned
 
-Working on this project, I learned how to effectively use CSS Flexbox and Grid to create a responsive layout. Here are a few code snippets that I’m particularly proud of:
-
-#### HTML
-
-```html
-<h1>Easybank Landing Page</h1>
-```
+Working on this project, I learned how to effectively use CSS Flexbox and Grid to create a responsive layout.
