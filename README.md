@@ -11,10 +11,7 @@ This is my solution to the [Easybank landing page challenge on Frontend Mentor](
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
-  - [Continued Development](#continued-development)
-  - [Useful Resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+ 
 
 ## Overview
 
